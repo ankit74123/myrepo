@@ -1,0 +1,8 @@
+1.Github account
+2.Empty repo
+3.Local system
+  git config --global user.name "ankit74123"
+  git config --global user.email "ap69886@gmail.com"
+4.git push -u origin master
+  4.1. username --> ankit74123
+  4.2. password --> password
